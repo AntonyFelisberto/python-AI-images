@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "kratos",
+        "class_prompt": "photo of a person",
+        "instance_data_dir": "AI_images\\data\\training",
+        "class_data_dir": "AI_images\\data\\person"
+    }
+]
